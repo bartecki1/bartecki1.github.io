@@ -1,0 +1,19 @@
+body {
+	background-color: cyan
+}
+/**/
+#test {
+	max-width:60%; text-align: justify;
+}
+.formularz{
+	background-color: orange; 
+}
+h3:hover {
+	color: red;
+	font-style: italic;
+}
+h1:hover {
+	color: #FF9933 ;
+	font-style: normal;
+}
+ 
