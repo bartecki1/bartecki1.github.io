@@ -1,0 +1,46 @@
+main{
+
+	color: blue
+}
+p{
+
+	color: orange
+}
+head{
+
+	color: purple
+}
+header{
+
+	color: red
+}
+div{
+
+	color: lime
+}
+.kwadrat{
+	background-color: dodgerblue;
+	height:200px;
+	width:200px;
+	margin: 20px
+}
+#j1{
+	font-size: 150px
+
+}
+img:hover{
+	border-radius: 50%
+}
+h1:hover{
+	color: pink
+}
+main div{
+	display:inline-block;
+}
+header{
+	background-color: black;
+
+	border:1px solid black;
+	position: sticky;
+	top: 0
+}
