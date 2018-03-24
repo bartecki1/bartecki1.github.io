@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
+<head>
+	<title>CSS z2 + JavaScript</title>
+</head>
+<body>
+	<header>
+		<h1>lecimy po placki</h1>
+	</header>
+	<nav>
+		<ul>
+			<li>GŁÓWNA</li>
+			<li>INFO</li>
+			<li>GALERIA</li>
+			<li>KONTAKT</li>
+
+
+
+
+		</ul>
+
+
+
+
+	</nav>
+<aside>
+	
+	
+</aside>
+<main>
+	
+</main>
+<footer>Copyright 12322312 Janusz&Biznesu spółka z.o.o</footer>
+
+</body>
+</html>
+
+
