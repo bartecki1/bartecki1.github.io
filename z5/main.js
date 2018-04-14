@@ -1,15 +1,9 @@
-//var imie="moje imie";
-//alert("Siema "+imie);
-
-//var wiek=prompt("ile masz lat");
-
-
 
 //}
 //var click=function(){
 //	document.querySelector('aside').style.color = 'blue';
 var wys = 100;
-var dlu = 200;
+var dlu = 100;
 var x = 13;
 var y = 613;
 
