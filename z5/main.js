@@ -56,4 +56,4 @@ function lol(w, d) {
 	
 }
 
-	
+	var gracze = ['Janusz','Grażyna']
