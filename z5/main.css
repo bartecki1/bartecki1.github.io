@@ -1,19 +1,24 @@
-nav{
-	position: sticky;
-	top: 0;
-}
-aside{
-	float: left;
-	height:300px;
-	width:100px;
-	background-color: gray 
-}
-
-
-body{
+body {
 	font-family: monospace;
 	margin: 0;
 }
+
+header {
+	text-align: center;
+}
+
+nav {
+	position: sticky;
+	top: 0;
+}
+
+aside {
+	float: left;
+	height: 300px;
+	width: 18%;
+	background-color: darkgray;
+}
+
 nav ul {
 	background-color: gray;
 }
@@ -21,25 +26,19 @@ nav ul {
 nav ul li {
 	display: inline-block;
 	padding: 10px;
-	padding-left: 10%;
-	padding-right: 10%;
+	/*padding-left: 10%;
+	padding-right: 10%;*/
 }
-nav ul li:hover{
-	color:red;
-	font-weight:bold;
-	background-color: black;
-	cursor:pointer;
 
+nav ul li:hover {
+	color: yellow;
+	font-weight: bold;
+	background-color: black;
+	cursor: pointer;
 }
-main{
+
+main {
 	margin: auto;
 	max-width: 60%;
 	text-align: justify;
-}
-h1:hover{
-	color: lime;
-	
-
-
-
 }
